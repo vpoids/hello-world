@@ -1,1 +1,3 @@
 Here I am creating a file that's in the base
+
+Now I'm going to add some text and commit it to the feature-edits.
